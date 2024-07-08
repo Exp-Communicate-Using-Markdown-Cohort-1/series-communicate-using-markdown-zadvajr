@@ -14,3 +14,8 @@ Adding code
   name = "Daniel Zadva Jnr"
   print("Hello, ", name)
 ```
+
+Creating Task List
+- [x] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world

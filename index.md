@@ -7,3 +7,10 @@
 
 Code Review Image
 ![Code Review](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbDdykgwZLBuljtEICHgu8RFVO51okRiJ_A&s)
+
+Adding code
+```py
+  #this is a comment in python
+  name = "Daniel Zadva Jnr"
+  print("Hello, ", name)
+```
